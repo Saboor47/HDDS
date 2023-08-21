@@ -23,7 +23,7 @@ This is the research project for the design and development of the Harsh Driving
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes. For installation of required libraries please see the [Requirements](#requirements) section. 
 
-* First fork and then clone the repository on your local machine.
+* First _**fork**_ and then _**clone**_ the repository on your local machine.
 * ["MPU9250_raw_data"](./MPU9250_raw_data_code.ino) file contains code for the configuration and raw data collection from the MPU9250 sensor. Run this file and upload the code on the microcontroller to get raw sensor data.
 * [Arduino IDE](https://www.arduino.cc/en/software) - IDE for Arduino microcontroller, is used for the sensor configuration.
 * Once you start getting raw data from the microcontroller run the ["CSV file creation"](https://github.com/Saboor47/HDDS/blob/main/code%20for%20csv%20file%20creation.py) files to store raw sensor data in CSV file.
