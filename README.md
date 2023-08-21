@@ -4,8 +4,25 @@ This is the research project for the design and development of the Harsh Driving
 
 ## Preview
 
-![image1](https://drive.google.com/uc?export=view&id=1nl4hUeum7ww1N-y-7EG5fVj0CARKIT-z)
-![image2](https://drive.google.com/uc?export=view&id=1STfKkvCj59OH7MlaBc_MglEqSlNbhVnj)
-![image3](https://drive.google.com/uc?export=view&id=1JTr7nf4Pta0gOaHZe1Kh_-6ZjdyGLz1n)
-![image4](https://drive.google.com/uc?export=view&id=1yOTOHY11HUqVYylhTtX8cKrullv0e-Gi)
-![image5](https://drive.google.com/uc?export=view&id=1YJfkZQK5NuwCwzml1db5TyhHesFs8mh-)
+1. Conceptual framework of the proposed system
+<img src="https://drive.google.com/uc?export=view&id=1yOTOHY11HUqVYylhTtX8cKrullv0e-Gi" width=300>
+
+2. Block diagram
+<img src="https://drive.google.com/uc?export=view&id=1STfKkvCj59OH7MlaBc_MglEqSlNbhVnj" width=300>
+   
+3. Visualization of Raw sensor data and driving maneuver
+<img src="https://drive.google.com/uc?export=view&id=1nl4hUeum7ww1N-y-7EG5fVj0CARKIT-z" width=300>
+
+4. Final result of field trials
+<p>
+  <img src="https://drive.google.com/uc?export=view&id=1JTr7nf4Pta0gOaHZe1Kh_-6ZjdyGLz1n" width=300 height=250>
+  <img src="https://drive.google.com/uc?export=view&id=1YJfkZQK5NuwCwzml1db5TyhHesFs8mh-" width=300 height=250>
+</p>
+
+## Requirements
+
+All required libraries are specified in the [requirements.txt](./requirements.txt) file.
+
+## Authors
+
+* [Saboor Ahmed](https://www.linkedin.com/in/saboor-ahmed)
